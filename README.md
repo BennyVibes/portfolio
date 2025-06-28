@@ -23,3 +23,4 @@ The game challenges players to navigate through pipes without hitting obstacles.
 
 ![Gameplay](./image1.png)
 ![Game Over](./image.png)
+You can find the BirdScript.cs file in the Assets folder of this repo. It controls the bird's movement and handles collisions.
