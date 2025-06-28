@@ -13,7 +13,7 @@ I’m passionate about game design and technology. Currently learning Unity and 
 - C# (beginner)
 - Game design ideas
   
-# My Flappy Bird Inspired Game
+# My Flappy Bird Inspired Game Project
 
 This is a simple Flappy Bird style game I made using Unity for my CMGT intake.  
 I coded the bird's movement, collision detection, and game over logic using C#.  
