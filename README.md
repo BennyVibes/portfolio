@@ -18,7 +18,3 @@ I’m passionate about game design and technology. Currently learning Unity and 
 This is a simple Flappy Bird style game I made using Unity for my CMGT intake.  
 I coded the bird's movement, collision detection, and game over logic using C#.  
 The game challenges players to navigate through pipes without hitting obstacles.
-
-## Code sample
-
-Included is my main BirdScript.cs which handles player input and collision.
