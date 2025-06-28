@@ -23,6 +23,4 @@ Players navigate the bird through obstacles symbolizing pollution, encouraging r
 I coded the bird's movement, collision detection, and game over logic using C#. The BirdScript.cs file in the Assets folder controls these behaviors.
 ## Screenshots
 
-![Gameplay](./image1.png)
-![Game Over](./image.png)
 
