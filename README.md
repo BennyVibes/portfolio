@@ -19,8 +19,10 @@ This is a simple Flappy Bird style game I made using Unity for my CMGT intake.
 I coded the bird's movement, collision detection, and game over logic using C#.  
 The game challenges players to navigate through pipes without hitting obstacles.
 
+You can find the BirdScript.cs file in the Assets folder of this repo. It controls the bird's movement and handles collisions.
+
 ## Screenshots
 
 ![Gameplay](./image1.png)
 ![Game Over](./image.png)
-You can find the BirdScript.cs file in the Assets folder of this repo. It controls the bird's movement and handles collisions.
+
