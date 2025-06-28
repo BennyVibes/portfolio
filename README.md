@@ -1,12 +1,12 @@
 # Benyamin's Portfolio
 
 ## About Me
-I’m passionate about game design and technology. Currently learning Unity and creating my first game projects.
+I’m passionate about game design and technology. Currently learning Unity and creating my first game projects. I’m excited about combining fun gameplay with meaningful messages that can inspire positive change.
 
-## Projects
-- Experimented with Unity tutorials.
-- Created simple game prototypes.
-- Working on an SDG-inspired game for CMGT intake.
+## ProjectsProjects
+-Experimented with Unity tutorials.
+-Created simple game prototypes.
+-Currently developing an SDG-inspired game focused on environmental awareness for my CMGT intake.
 
 ## Skills
 - Unity basics
@@ -15,12 +15,12 @@ I’m passionate about game design and technology. Currently learning Unity and 
   
 # My Flappy Bird Inspired Game Project
 
-This is a simple Flappy Bird style game I made using Unity for my CMGT intake.  
-I coded the bird's movement, collision detection, and game over logic using C#.  
-The game challenges players to navigate through pipes without hitting obstacles.
+This project started as a simple Flappy Bird-style game made using Unity for my CMGT intake.
+Recently, I reimagined it with an environmental theme by replacing the traditional pipes with stacks of trash to raise awareness about pollution and waste management. For the SDG, especially SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action).
 
-You can find the BirdScript.cs file in the Assets folder of this repo. It controls the bird's movement and handles collisions.
+Players navigate the bird through obstacles symbolizing pollution, encouraging reflection on the importance of reducing waste and protecting the environment.
 
+I coded the bird's movement, collision detection, and game over logic using C#. The BirdScript.cs file in the Assets folder controls these behaviors.
 ## Screenshots
 
 ![Gameplay](./image1.png)
