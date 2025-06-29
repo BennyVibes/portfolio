@@ -20,7 +20,8 @@ Recently, I reimagined it with an environmental theme by replacing the tradition
 
 Players navigate the bird through obstacles symbolizing pollution, encouraging reflection on the importance of reducing waste and protecting the environment.
 
-I coded the bird's movement, collision detection, and game over logic using C#. The BirdScript.cs and more can be found in the Assets folder.
+I coded the bird's movement, collision detection, and game over logic using C#. The BirdScript.cs and more can be found in the scripts folder.
+
 ## Screenshots
 
 ![Gameplay](./gameplay.png)
