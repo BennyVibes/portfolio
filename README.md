@@ -3,7 +3,7 @@
 ## About Me
 I’m passionate about game design and technology. Currently learning Unity and creating my first game projects. I’m excited about combining fun gameplay with meaningful messages that can inspire positive change.
 
-## ProjectsProjects
+## Project
 -Experimented with Unity tutorials.
 -Currently developing an SDG-inspired game focused on environmental awareness for my CMGT intake.
 
