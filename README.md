@@ -10,7 +10,9 @@ I’m passionate about game design and technology. Currently learning Unity and 
 
 ## Skills
 - Unity basics
+
 - C# (beginner)
+
 - Game design ideas
   
 # My Flappy Bird Inspired Game Project
