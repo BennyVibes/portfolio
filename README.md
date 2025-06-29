@@ -5,9 +5,6 @@ I’m passionate about game design and technology. Currently learning Unity and 
 
 ## ProjectsProjects
 -Experimented with Unity tutorials.
-
--Created simple game prototypes.
-
 -Currently developing an SDG-inspired game focused on environmental awareness for my CMGT intake.
 
 ## Skills
